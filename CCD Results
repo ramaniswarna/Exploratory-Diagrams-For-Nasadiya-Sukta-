@@ -1,0 +1,146 @@
+	Code		File	File Folder	File Size	Kappa	Agreement (%)	A and B (%)	Not A and Not B (%)	Disagreement (%)	A and Not B (%)	B and Not A (%)
+	depth		Basham	Files	1295 chars	1	100	0	100	0	0	0
+	depth		Breretona	Files	1380 chars	0	97.83	0	97.83	2.17	2.17	0
+	depth		Donigera	Files	1289 chars	1	100	0	100	0	0	0
+	depth		Griffith	Files	1303 chars	0	96.7	0	96.7	3.3	3.3	0
+	depth		Raimundo Pannikar	Files	3651 chars	1	100	0	100	0	0	0
+	depth\deep depth		Basham	Files	1295 chars	1	100	0	100	0	0	0
+	depth\deep depth		Breretona	Files	1380 chars	0	97.83	0	97.83	2.17	2.17	0
+	depth\deep depth		Donigera	Files	1289 chars	1	100	0	100	0	0	0
+	depth\deep depth		Griffith	Files	1303 chars	1	100	0	100	0	0	0
+	depth\deep depth		Raimundo Pannikar	Files	3651 chars	1	100	0	100	0	0	0
+	depth\unfathomed depth		Basham	Files	1295 chars	1	100	0	100	0	0	0
+	depth\unfathomed depth		Breretona	Files	1380 chars	1	100	0	100	0	0	0
+	depth\unfathomed depth		Donigera	Files	1289 chars	1	100	0	100	0	0	0
+	depth\unfathomed depth		Griffith	Files	1303 chars	0	96.7	0	96.7	3.3	3.3	0
+	depth\unfathomed depth		Raimundo Pannikar	Files	3651 chars	1	100	0	100	0	0	0
+	distinguishing sign		Basham	Files	1295 chars	1	100	0	100	0	0	0
+	distinguishing sign		Breretona	Files	1380 chars	1	100	0	100	0	0	0
+	distinguishing sign		Donigera	Files	1289 chars	0	88.29	0	88.29	11.71	11.71	0
+	distinguishing sign		Griffith	Files	1303 chars	1	100	0	100	0	0	0
+	distinguishing sign		Raimundo Pannikar	Files	3651 chars	1	100	0	100	0	0	0
+	distinguishing sign\distinguishing sign		Basham	Files	1295 chars	1	100	0	100	0	0	0
+	distinguishing sign\distinguishing sign		Breretona	Files	1380 chars	1	100	0	100	0	0	0
+	distinguishing sign\distinguishing sign		Donigera	Files	1289 chars	0	88.29	0	88.29	11.71	11.71	0
+	distinguishing sign\distinguishing sign		Griffith	Files	1303 chars	1	100	0	100	0	0	0
+	distinguishing sign\distinguishing sign		Raimundo Pannikar	Files	3651 chars	1	100	0	100	0	0	0
+	force		Basham	Files	1295 chars	1	100	0	100	0	0	0
+	force		Breretona	Files	1380 chars	0	95.8	0	95.8	4.2	4.2	0
+	force		Donigera	Files	1289 chars	0	93.1	0	93.1	6.9	6.9	0
+	force		Griffith	Files	1303 chars	0	93.4	0	93.4	6.6	6.6	0
+	force		Raimundo Pannikar	Files	3651 chars	0	95.89	0	95.89	4.11	4.11	0
+	force\inherent force		Basham	Files	1295 chars	1	100	0	100	0	0	0
+	force\inherent force		Breretona	Files	1380 chars	0	95.8	0	95.8	4.2	4.2	0
+	force\inherent force		Donigera	Files	1289 chars	1	100	0	100	0	0	0
+	force\inherent force		Griffith	Files	1303 chars	1	100	0	100	0	0	0
+	force\inherent force		Raimundo Pannikar	Files	3651 chars	1	100	0	100	0	0	0
+	force\life force		Basham	Files	1295 chars	1	100	0	100	0	0	0
+	force\life force		Breretona	Files	1380 chars	1	100	0	100	0	0	0
+	force\life force		Donigera	Files	1289 chars	0	93.1	0	93.1	6.9	6.9	0
+	force\life force		Griffith	Files	1303 chars	1	100	0	100	0	0	0
+	force\life force		Raimundo Pannikar	Files	3651 chars	1	100	0	100	0	0	0
+	force\mighty forces		Basham	Files	1295 chars	1	100	0	100	0	0	0
+	force\mighty forces		Breretona	Files	1380 chars	1	100	0	100	0	0	0
+	force\mighty forces		Donigera	Files	1289 chars	1	100	0	100	0	0	0
+	force\mighty forces		Griffith	Files	1303 chars	0	93.4	0	93.4	6.6	6.6	0
+	force\mighty forces		Raimundo Pannikar	Files	3651 chars	0	97.59	0	97.59	2.41	2.41	0
+	force\stirring force		Basham	Files	1295 chars	1	100	0	100	0	0	0
+	force\stirring force		Breretona	Files	1380 chars	1	100	0	100	0	0	0
+	force\stirring force		Donigera	Files	1289 chars	1	100	0	100	0	0	0
+	force\stirring force		Griffith	Files	1303 chars	1	100	0	100	0	0	0
+	force\stirring force		Raimundo Pannikar	Files	3651 chars	0	98.3	0	98.3	1.7	1.7	0
+	line		Basham	Files	1295 chars	1	100	0	100	0	0	0
+	line		Breretona	Files	1380 chars	1	100	0	100	0	0	0
+	line		Donigera	Files	1289 chars	1	100	0	100	0	0	0
+	line		Griffith	Files	1303 chars	0	93.09	0	93.09	6.91	6.91	0
+	line		Raimundo Pannikar	Files	3651 chars	0	93.95	0	93.95	6.05	6.05	0
+	line\crosswise line		Basham	Files	1295 chars	1	100	0	100	0	0	0
+	line\crosswise line		Breretona	Files	1380 chars	1	100	0	100	0	0	0
+	line\crosswise line		Donigera	Files	1289 chars	1	100	0	100	0	0	0
+	line\crosswise line		Griffith	Files	1303 chars	1	100	0	100	0	0	0
+	line\crosswise line		Raimundo Pannikar	Files	3651 chars	0	93.95	0	93.95	6.05	6.05	0
+	line\severing line		Basham	Files	1295 chars	1	100	0	100	0	0	0
+	line\severing line		Breretona	Files	1380 chars	1	100	0	100	0	0	0
+	line\severing line		Donigera	Files	1289 chars	1	100	0	100	0	0	0
+	line\severing line		Griffith	Files	1303 chars	0	93.09	0	93.09	6.91	6.91	0
+	line\severing line		Raimundo Pannikar	Files	3651 chars	1	100	0	100	0	0	0
+	mighty forces		Basham	Files	1295 chars	1	100	0	100	0	0	0
+	mighty forces		Breretona	Files	1380 chars	1	100	0	100	0	0	0
+	mighty forces		Donigera	Files	1289 chars	1	100	0	100	0	0	0
+	mighty forces		Griffith	Files	1303 chars	0	93.4	0	93.4	6.6	6.6	0
+	mighty forces		Raimundo Pannikar	Files	3651 chars	0	97.59	0	97.59	2.41	2.41	0
+	mighty forces\mighty forces		Basham	Files	1295 chars	1	100	0	100	0	0	0
+	mighty forces\mighty forces		Breretona	Files	1380 chars	1	100	0	100	0	0	0
+	mighty forces\mighty forces		Donigera	Files	1289 chars	1	100	0	100	0	0	0
+	mighty forces\mighty forces		Griffith	Files	1303 chars	0	93.4	0	93.4	6.6	6.6	0
+	mighty forces\mighty forces		Raimundo Pannikar	Files	3651 chars	0	97.59	0	97.59	2.41	2.41	0
+	primal seed		Basham	Files	1295 chars	0	93.44	0	93.44	6.56	6.56	0
+	primal seed		Breretona	Files	1380 chars	1	100	0	100	0	0	0
+	primal seed		Donigera	Files	1289 chars	1	100	0	100	0	0	0
+	primal seed		Griffith	Files	1303 chars	0	93.55	0	93.55	6.45	6.45	0
+	primal seed		Raimundo Pannikar	Files	3651 chars	1	100	0	100	0	0	0
+	primal seed\primal seed		Basham	Files	1295 chars	0	93.44	0	93.44	6.56	6.56	0
+	primal seed\primal seed		Breretona	Files	1380 chars	1	100	0	100	0	0	0
+	primal seed\primal seed		Donigera	Files	1289 chars	1	100	0	100	0	0	0
+	primal seed\primal seed		Griffith	Files	1303 chars	0	93.55	0	93.55	6.45	6.45	0
+	primal seed\primal seed		Raimundo Pannikar	Files	3651 chars	1	100	0	100	0	0	0
+	state		Basham	Files	1295 chars	1	100	0	100	0	0	0
+	state		Breretona	Files	1380 chars	1	100	0	100	0	0	0
+	state		Donigera	Files	1289 chars	1	100	0	100	0	0	0
+	state		Griffith	Files	1303 chars	1	100	0	100	0	0	0
+	state		Raimundo Pannikar	Files	3651 chars	0	95.95	0	95.95	4.05	4.05	0
+	state\initial state		Basham	Files	1295 chars	1	100	0	100	0	0	0
+	state\initial state		Breretona	Files	1380 chars	1	100	0	100	0	0	0
+	state\initial state		Donigera	Files	1289 chars	1	100	0	100	0	0	0
+	state\initial state		Griffith	Files	1303 chars	1	100	0	100	0	0	0
+	state\initial state		Raimundo Pannikar	Files	3651 chars	0	98.06	0	98.06	1.94	1.94	0
+	state\unmanifested state		Basham	Files	1295 chars	1	100	0	100	0	0	0
+	state\unmanifested state		Breretona	Files	1380 chars	1	100	0	100	0	0	0
+	state\unmanifested state		Donigera	Files	1289 chars	1	100	0	100	0	0	0
+	state\unmanifested state		Griffith	Files	1303 chars	1	100	0	100	0	0	0
+	state\unmanifested state		Raimundo Pannikar	Files	3651 chars	0	97.89	0	97.89	2.11	2.11	0
+	water		Basham	Files	1295 chars	0	93.36	0	93.36	6.64	6.64	0
+	water		Breretona	Files	1380 chars	1	100	0	100	0	0	0
+	water		Donigera	Files	1289 chars	1	100	0	100	0	0	0
+	water		Griffith	Files	1303 chars	1	100	0	100	0	0	0
+	water		Raimundo Pannikar	Files	3651 chars	1	100	0	100	0	0	0
+	water\cosmic water		Basham	Files	1295 chars	0	96.14	0	96.14	3.86	3.86	0
+	water\cosmic water		Breretona	Files	1380 chars	1	100	0	100	0	0	0
+	water\cosmic water		Donigera	Files	1289 chars	1	100	0	100	0	0	0
+	water\cosmic water		Griffith	Files	1303 chars	1	100	0	100	0	0	0
+	water\cosmic water		Raimundo Pannikar	Files	3651 chars	1	100	0	100	0	0	0
+	water\unillumined water		Basham	Files	1295 chars	0	97.22	0	97.22	2.78	2.78	0
+	water\unillumined water		Breretona	Files	1380 chars	1	100	0	100	0	0	0
+	water\unillumined water		Donigera	Files	1289 chars	1	100	0	100	0	0	0
+	water\unillumined water		Griffith	Files	1303 chars	1	100	0	100	0	0	0
+	water\unillumined water		Raimundo Pannikar	Files	3651 chars	1	100	0	100	0	0	0
+	Negative		Basham	Files	1295 chars	1	100	0	100	0	0	0
+	Negative		Breretona	Files	1380 chars	1	100	0	100	0	0	0
+	Negative		Donigera	Files	1289 chars	1	100	0	100	0	0	0
+	Negative		Griffith	Files	1303 chars	1	100	0	100	0	0	0
+	Negative		Raimundo Pannikar	Files	3651 chars	1	100	0	100	0	0	0
+	Negative\Moderately negative		Basham	Files	1295 chars	1	100	0	100	0	0	0
+	Negative\Moderately negative		Breretona	Files	1380 chars	1	100	0	100	0	0	0
+	Negative\Moderately negative		Donigera	Files	1289 chars	1	100	0	100	0	0	0
+	Negative\Moderately negative		Griffith	Files	1303 chars	1	100	0	100	0	0	0
+	Negative\Moderately negative		Raimundo Pannikar	Files	3651 chars	1	100	0	100	0	0	0
+	Negative\Very negative		Basham	Files	1295 chars	1	100	0	100	0	0	0
+	Negative\Very negative		Breretona	Files	1380 chars	1	100	0	100	0	0	0
+	Negative\Very negative		Donigera	Files	1289 chars	1	100	0	100	0	0	0
+	Negative\Very negative		Griffith	Files	1303 chars	1	100	0	100	0	0	0
+	Negative\Very negative		Raimundo Pannikar	Files	3651 chars	1	100	0	100	0	0	0
+	Positive		Basham	Files	1295 chars	1	100	0	100	0	0	0
+	Positive		Breretona	Files	1380 chars	1	100	0	100	0	0	0
+	Positive		Donigera	Files	1289 chars	1	100	0	100	0	0	0
+	Positive		Griffith	Files	1303 chars	1	100	0	100	0	0	0
+	Positive		Raimundo Pannikar	Files	3651 chars	1	100	0	100	0	0	0
+	Positive\Moderately positive		Basham	Files	1295 chars	1	100	0	100	0	0	0
+	Positive\Moderately positive		Breretona	Files	1380 chars	1	100	0	100	0	0	0
+	Positive\Moderately positive		Donigera	Files	1289 chars	1	100	0	100	0	0	0
+	Positive\Moderately positive		Griffith	Files	1303 chars	1	100	0	100	0	0	0
+	Positive\Moderately positive		Raimundo Pannikar	Files	3651 chars	1	100	0	100	0	0	0
+	Positive\Very positive		Basham	Files	1295 chars	1	100	0	100	0	0	0
+	Positive\Very positive		Breretona	Files	1380 chars	1	100	0	100	0	0	0
+	Positive\Very positive		Donigera	Files	1289 chars	1	100	0	100	0	0	0
+	Positive\Very positive		Griffith	Files	1303 chars	1	100	0	100	0	0	0
+	Positive\Very positive		Raimundo Pannikar	Files	3651 chars	1	100	0	100	0	0	0
